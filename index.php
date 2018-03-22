@@ -1,4 +1,7 @@
 <?php
+
+echo("YOLO BRO!");
+     
 // Reads the variables sent via POST from our gateway
 $sessionId   = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];
