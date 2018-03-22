@@ -1,6 +1,6 @@
 <?php
 
-echo("YOLO BRO!");
+echo("YOLO BRO!\n\n\n");
      
 // Reads the variables sent via POST from our gateway
 $sessionId   = $_POST["sessionId"];
